@@ -1,0 +1,7 @@
+*.svg
+*.txt
+.DS_Store
+.idea/
+*iml
+out/
+*.zip
